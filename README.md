@@ -1,2 +1,2 @@
-# EmmergingTec
+# EmergingTec
 Class2
